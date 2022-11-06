@@ -11,15 +11,90 @@
 
 .header {
   height: 100vh;
+  display: flex;
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
+  border: 1px solid rgb(0, 162, 255);
+  position: relative;
+  margin: 0;
+  padding: 0;
+  
+}
+.header__logo{
+  
+ 
+}
+.logo{
+
+}
+.logo_place_header{
+  height: 32px;
+  width: 228px;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  margin: 0;
+  border: 1px solid red;
+  z-index: 1;
+}
+.header__title{
+
+  border: 1px solid red;
+  width: 730px;
+  align-self: center;
+  padding-left: 64px; 
+  margin: 0;
+  font-size: 102px;
+  font-weight: 600;
+  line-height: 96px;
+  z-index: 1;
+}
+
+.header__subtitle{
+  width: 388px;
+  border: 1px solid red;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  margin: 0;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  z-index: 1;
+
+}
+.header__link{
+  border: 1px solid red;
+  margin: 0;
+  text-decoration: none;
+  
+}
+.header__main-illustration{
+  width: 765px;
+  height: 608px;
+
+  border: 1px solid red;
+  margin: 0;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  
+
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background-color: #2f80ed;
+  margin: 0;
+  position: absolute;
+  top: 64px;
+  right: 0px;
+  z-index: -1;
+  border: 1px solid red;
+  
 }
 
 /* и элемента с модификатором вида ключ-значение */
