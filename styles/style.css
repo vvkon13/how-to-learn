@@ -7,6 +7,7 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  
 }
 
 .header {
@@ -95,6 +96,65 @@
   z-index: -1;
   border: 1px solid red;
   
+}
+.description{
+  
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid rgb(255, 0, 13);
+
+}
+
+.two-columns{
+  border: 1px solid rgb(68, 0, 255);
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+
+ 
+
+  }
+
+
+.two-columns__brief{
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2; 
+  width: 175px;
+  
+  margin: 0;
+    
+}
+.two-columns__main-text{
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px; 
+  width: 80%;
+  min-width: 784px;
+  
+  
+  margin: 0;
+  
+  
+}
+.two-columns__paragraph{
+  border: 1px solid rgb(255, 0, 0);
+  margin: 0;
+  
+
+}
+.two-columns__span-accent{
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+    
+ 
+
 }
 
 /* и элемента с модификатором вида ключ-значение */
