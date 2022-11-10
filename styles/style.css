@@ -210,9 +210,9 @@ box-sizing: border-box;
 justify-content: space-between;
 
 }
-.table_theme_dark{
+/*.table_theme_dark{
 
-}
+}*/
 .table__cell{
 list-style: none;
 width: 250px;
@@ -253,9 +253,9 @@ font-weight: normal;
 line-height: 1.2;
 
 }
-.table__text_theme_dark{
+/*  .table__text_theme_dark{
 
-}
+}*/
 
 .feynman{
   height: 890px;
@@ -373,9 +373,9 @@ line-height: 25px;
 
 }
 
-.footer__column_content_info{
+/*  .footer__column_content_info{
 
-}
+}*/
 .footer__column_content{
   color: white;
   font-size: 18px;
@@ -383,8 +383,8 @@ line-height: 25px;
   font-weight: normal;
 
 }
-.footer__column_content_social{
-  }
+/*  .footer__column_content_social{
+  }*/
 
 .footer__column-heading{
 margin: 0;
