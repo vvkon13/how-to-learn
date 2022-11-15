@@ -234,13 +234,13 @@ box-sizing: border-box;
 
 }
 
-.table__cell-break {
+/*.table__cell-break {
   width: 100%;
-/*  list-style: none;*/
+  list-style: none;
   height: 0;
   margin: 0;
   padding: 0;
-}
+}*/
 .table__cell_theme_dark {
   max-width: 200px;
 
