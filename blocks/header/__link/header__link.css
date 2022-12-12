@@ -1,7 +1,7 @@
 .header__link {
-    /* margin: 0;*/
-    text-decoration: none;
-    z-index: 2;
-    color: #2f80ed;
-    position: relative;
-  }
+  /* margin: 0;*/
+  text-decoration: none;
+  z-index: 2;
+  color: #2f80ed;
+  position: relative;
+}
