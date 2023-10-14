@@ -9,6 +9,10 @@ Flexbox technologies are used. Iframe (API YouTube). BEM file structure (Nested)
 
 <img src="https://img.shields.io/badge/HTML-2F4F4F?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Git-2F4F4F?style=for-the-badge&logo=git"/>
 
+### 🏗️: Installation:
+* git clone git@github.com:vvkon13/how-to-learn.git
+* `Installation is complete run index.html in your browser`  
+
 #### [References to the project:](https://cumbersome-planes.surge.sh/)
 Link to the website: https://cumbersome-planes.surge.sh/ 
 Posted by using the free service: https://surge.sh
